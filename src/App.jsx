@@ -402,7 +402,7 @@ function App() {
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_right">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style={{ height: "67px" }} alt="React" />
                           {/* <h1 class="percent">90%</h1> */}
                         </div>
                         <p class="name">React</p>
@@ -430,7 +430,7 @@ function App() {
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_top">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style={{ height: "67px" }} alt="AWS" />
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style={{ height: "67px" }} alt="AWS" />
                           {/* <h1 class="percent">80%</h1> */}
                         </div>
                         <p class="name">AWS</p>
@@ -449,7 +449,7 @@ function App() {
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_bottom">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kivy/kivy-original.svg" style={{ height: "67px" }} alt="Kivy" />
+                          <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png " style={{ height: "67px" }} alt="Kivy" />
                           {/* <h1 class="percent">70%</h1> */}
                         </div>
                         <p class="name">KIVY</p>
