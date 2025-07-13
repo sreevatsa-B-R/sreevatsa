@@ -402,7 +402,7 @@ function App() {
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_right">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="./assets/images/react.png" alt="React" />
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
                           {/* <h1 class="percent">90%</h1> */}
                         </div>
                         <p class="name">React</p>
@@ -411,7 +411,7 @@ function App() {
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_left">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style={{ height: "67px" }} alt="Figma" />
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style={{ height: "67px" }} alt="Python" />
                           {/* <h1 class="percent">92%</h1> */}
 
                         </div>
@@ -421,7 +421,7 @@ function App() {
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_bottom">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" style={{ height: "67px" }} alt="Framer" />
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style={{ height: "67px" }} alt="Linux" />
                           {/* <h1 class="percent">85%</h1> */}
                         </div>
                         <p class="name">Linux</p>
@@ -430,7 +430,7 @@ function App() {
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_top">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" style={{ height: "67px" }} alt="Webflow" />
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style={{ height: "67px" }} alt="AWS" />
                           {/* <h1 class="percent">80%</h1> */}
                         </div>
                         <p class="name">AWS</p>
@@ -440,7 +440,7 @@ function App() {
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_left">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" style={{ height: "67px" }} alt="WordPress" />
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" style={{ height: "67px" }} alt="Azure" />
                           {/* <h1 class="percent">86%</h1> */}
                         </div>
                         <p class="name">Azure</p>
@@ -449,7 +449,7 @@ function App() {
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_bottom">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" style={{ height: "67px" }} alt="Laravel/PHP" />
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kivy/kivy-original.svg" style={{ height: "67px" }} alt="Kivy" />
                           {/* <h1 class="percent">70%</h1> */}
                         </div>
                         <p class="name">KIVY</p>
