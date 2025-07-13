@@ -1,19 +1,22 @@
 {
+  "homepage": "https://sreevatsa-B-R.github.io/sreevatsa",
   "name": "sreevatsa",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
     "aos": "^2.3.4",
+    "gh-pages": "^6.3.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "proxy":"http://localhost:8080"
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
