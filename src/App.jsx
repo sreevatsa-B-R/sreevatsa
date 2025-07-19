@@ -161,13 +161,11 @@ function App() {
             <p>Social</p>
             <ul class="social-links d-flex align-items-center">
               <li>
-                <a href=""><i class="lab la-twitter"></i></a>
+                <a href="https://www.linkedin.com/in/sreevatsa-br/"><i class="lab la-linkedin"></i></a>
               </li>
+              
               <li>
-                <a href=""><i class="lab la-dribbble"></i></a>
-              </li>
-              <li>
-                <a href=""><i class="lab la-instagram"></i></a>
+                <a href="https://github.com/sreevatsa-B-R"><i class="lab la-github"></i></a>
               </li>
             </ul>
           </div>
@@ -220,13 +218,13 @@ function App() {
           <h6 class="">Full Stack Devloper</h6>
           {/* <span class="designation">Framer Designer & Developer</span> */}
         </div>
-        <img class="me" src="./assets/images/DSC_4237.jpg" style={{ height: "30vh" }} alt="Me" />
+        <img class="me" src="./assets/images/DSC_4237.jpg" style={{ height: "30vh" }} alt="Sreevatsa B R - Full Stack Developer Portfolio Photo" loading="lazy" />
         <h2 class="email">sreevatsabr@outlook.com</h2>
         <h2 class="address">Bengaluru, Karnataka, India</h2>
         <p class="copyright">&copy; 2025 Sreevatsa B R. All Rights Reserved</p>
         <ul class="social-profile d-flex align-items-center flex-wrap justify-content-center">
           <li>
-            <a href=""><i class="lab la-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/sreevatsa-br/"><i class="lab la-linkedin"></i></a>
           </li>
           {/* <li>
             <a href=""><i class="lab la-dribbble"></i></a>
@@ -235,7 +233,7 @@ function App() {
             <a href=""><i class="lab la-instagram"></i></a>
           </li> */}
           <li>
-            <a href=""><i class="lab la-github"></i></a>
+            <a href="https://github.com/sreevatsa-B-R"><i class="lab la-github"></i></a>
           </li>
         </ul>
         <a href="mailto:sreevatsabr@outlook.com" class="theme-btn">
@@ -254,16 +252,16 @@ function App() {
                 <h6 class="">Full Stack Devloper</h6>
                 {/* <span class="designation">Framer Designer & Developer</span> */}
               </div>
-              <img class="me" src="./assets/images/DSC_4237.jpg" style={{ height: "30vh" }} alt="Me" />
+              <img class="me" src="./assets/images/DSC_4237.jpg" style={{ height: "30vh" }} alt="Sreevatsa B R - Professional Full Stack Developer and UI/UX Designer" loading="eager" decoding="sync" importance="high" />
               <h2 class="email">sreevatsabr@outlook.com</h2>
               <h2 class="address">Bengaluru, Karnataka, India</h2>
               <p class="copyright">&copy; 2025 Sreevatsa B R. All Rights Reserved</p>
               <ul class="social-profile d-flex align-items-center flex-wrap justify-content-center">
                 <li>
-                  <a href=""><i class="lab la-linkedin"></i></a>
+                  <a href="https://www.linkedin.com/in/sreevatsa-br/"><i class="lab la-linkedin"></i></a>
                 </li>
                 <li>
-                  <a href=""><i class="lab la-github"></i></a>
+                  <a href="https://github.com/sreevatsa-B-R"><i class="lab la-github"></i></a>
                 </li>
               </ul>
               <a href="mailto:sreevatsabr@outlook.com" class="theme-btn">
@@ -271,138 +269,150 @@ function App() {
               </a>
             </div>
 
-            <section class="hero-section page-section scroll-to-page" id="home">
+            <header role="banner">
+              <section class="hero-section page-section scroll-to-page" id="home">
+                <div class="custom-container">
+                  <div class="hero-content content-width">
+                    <div class="section-header">
+                      <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
+                        <i class="las la-home" aria-hidden="true"></i> Introduce
+                      </h4>
+                      <h1 class="scroll-animation" data-aos="fade_from_bottom">Hi, I'm <span>Sreevatsa B R</span> - Full Stack Developer</h1>
+                    </div>
+                    {/* <p >I design and code beautifully simple things and i love what i do. Just simple like that!</p> */}
+                    <h2 class="scroll-animation" data-aos="fade_from_bottom" style={{fontSize: '1.5rem', fontWeight: '400', marginBottom: '2rem'}}> 
+                      I bridge the gap between design and development with full-stack solutions that scale.
+                    </h2>
+                    <p class="scroll-animation" data-aos="fade_from_bottom" style={{fontSize: '1.1rem', lineHeight: '1.6', marginBottom: '2rem'}}>
+                      Experienced Full Stack Developer specializing in React, Node.js, Python, and modern web technologies. 
+                      Based in Bengaluru, India. Available for freelance projects worldwide.
+                    </p>
+                    <br />
+                    <br />
+                    <a href="#portfolio" class="go-to-project-btn scroll-to scroll-animation" data-aos="rotate_up" aria-label="View my portfolio projects">
+                      <img src="./assets/images/round-text.png" alt="View My Projects - Portfolio Navigation" loading="lazy" />
+                      <i class="las la-arrow-down" aria-hidden="true"></i>
+                    </a>
 
-              <div class="custom-container">
-                <div class="hero-content content-width">
-                  <div class="section-header">
-                    <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
-                      <i class="las la-home"></i> Introduce
-                    </h4>
-                    <h1 class="scroll-animation" data-aos="fade_from_bottom">Hi, I'm <span>Sreevatsa B R</span> </h1>
-                  </div>
-                  {/* <p >I design and code beautifully simple things and i love what i do. Just simple like that!</p> */}
-                  <h5 class="scroll-animation" data-aos="fade_from_bottom"> I bridge the gap between design and development with full-stack solutions that scale.</h5>
-                  <br />
-                  <br />
-                  <a href="#portfolio" class="go-to-project-btn scroll-to scroll-animation" data-aos="rotate_up">
-                    <img src="./assets/images/round-text.png" alt="Rounded Text" />
-                    <i class="las la-arrow-down"></i>
-                  </a>
-
-                  <div class="facts d-flex">
-                    <div class="left scroll-animation" data-aos="fade_from_left">
-                      <h1>10+</h1>
-                      <p>projects completed</p>
+                    <div class="facts d-flex">
+                      <div class="left scroll-animation" data-aos="fade_from_left">
+                        <h3>10+</h3>
+                        <p>projects completed</p>
+                      </div>
                     </div>
                   </div>
                 </div>
+              </section>
+            </header>
+
+            <section class="about-area page-section scroll-to-page" id="about" aria-labelledby="about-heading">
+              <div class="custom-container">
+                <article class="about-content content-width">
+                  <header class="section-header">
+                    <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
+                      <i class="lar la-user" aria-hidden="true"></i> About
+                    </h4>
+                    <h2 id="about-heading" class="scroll-animation" data-aos="fade_from_bottom">Every great design begins with<br /> an even <span>better story</span></h2>
+                  </header>
+                  <p class="scroll-animation" data-aos="fade_from_bottom">
+                    As a passionate Full Stack Developer with expertise in modern web technologies, I've been crafting digital solutions for clients worldwide. 
+                    My journey in web development spans across React.js, Node.js, Python, and cloud technologies like AWS and Azure. 
+                    I specialize in creating scalable, user-friendly applications that deliver exceptional user experiences.
+                    <br /><br />
+                    Based in Bengaluru, India, I work with businesses of all sizes - from startups to established enterprises - 
+                    helping them transform their ideas into powerful digital products. My approach combines technical expertise 
+                    with creative problem-solving to deliver solutions that not only meet requirements but exceed expectations.
+                  </p>
+                </article>
               </div>
             </section>
 
-            <section class="about-area page-section scroll-to-page" id="about">
-              <div class="custom-container">
-                <div class="about-content content-width">
-                  <div class="section-header">
-                    <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
-                      <i class="lar la-user"></i> About
-                    </h4>
-                    <h1 class="scroll-animation" data-aos="fade_from_bottom">Every great design begin with<br /> an even <span>better story</span></h1>
-                  </div>
-                  <p class="scroll-animation" data-aos="fade_from_bottom">Since beginning my journey as a freelance designer nearly a years ago, and collaborated with talented people to create digital products for both business and consumer
-                    use. I'm quietly confident, naturally curious, and perpetually working on improving my chopsone design problem at a time.</p>
-                </div>
-              </div>
-            </section>
 
+              <section class="resume-area page-section scroll-to-page" id="resume" aria-labelledby="resume-heading">
+                <div class="custom-container">
+                  <article class="resume-content content-width">
+                    <header class="section-header">
+                      <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
+                        <i class="las la-briefcase" aria-hidden="true"></i> Resume
+                      </h4>
+                      <h2 id="resume-heading" class="scroll-animation" data-aos="fade_from_bottom">Education & <span>Experience</span></h2>
+                    </header>
 
-            <section class="resume-area page-section scroll-to-page" id="resume">
-              <div class="custom-container">
-                <div class="resume-content content-width">
-                  <div class="section-header">
-                    <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
-                      <i class="las la-briefcase"></i> Resume
-                    </h4>
-                    <h1 class="scroll-animation" data-aos="fade_from_bottom">Education & <span>Experience</span></h1>
-                  </div>
-
-                  <div class="resume-timeline">
-                    <div class="item scroll-animation" data-aos="fade_from_right">
-                      <span class="date">2024 - Present</span>
-                      <h2>Full Stack Developer</h2>
-                      <p>Excerpt Technologies Pvt Ltd</p>
+                    <div class="resume-timeline" role="list">
+                      <div class="item scroll-animation" data-aos="fade_from_right" role="listitem">
+                        <time class="date" datetime="2024">2024 - Present</time>
+                        <h3>Full Stack Developer</h3>
+                        <p>Excerpt Technologies Pvt Ltd</p>
+                      </div>
                     </div>
-
-                  </div>
-
+                  </article>
                 </div>
-              </div>
-            </section>
+              </section>
 
 
-            <section class="services-area page-section scroll-to-page" id="services">
-              <div class="custom-container">
-                <div class="services-content content-width">
-                  <div class="section-header">
-                    <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
-                      <i class="las la-stream"></i> Services
-                    </h4>
-                    <h1 class="scroll-animation" data-aos="fade_from_bottom">My <span>Specializations</span></h1>
-                  </div>
+              <section class="services-area page-section scroll-to-page" id="services" aria-labelledby="services-heading">
+                <div class="custom-container">
+                  <article class="services-content content-width">
+                    <header class="section-header">
+                      <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
+                        <i class="las la-stream" aria-hidden="true"></i> Services
+                      </h4>
+                      <h2 id="services-heading" class="scroll-animation" data-aos="fade_from_bottom">Professional Development <span>Services</span></h2>
+                    </header>
 
                   <div class="services-items">
                     <div class="service-item scroll-animation" data-aos="fade_from_bottom">
                       <i class="las la-bezier-curve"></i>
-                      <h2>Website Design</h2>
-                      <p>Modern, responsive, and user-centric website designs using Figma & Framer.</p>
-                      <span class="projects">4+ Projects</span>
+                      <h3>Website Design & UI/UX</h3>
+                      <p>Create stunning, responsive, and user-centric website designs using modern tools like Figma, Framer, and Adobe XD. Focus on conversion optimization and user experience.</p>
+                      <span class="projects">4+ Projects Completed</span>
                     </div>
                     <div class="service-item scroll-animation" data-aos="fade_from_bottom">
                       <i class="las la-code"></i>
-                      <h2>Development</h2>
-                      <p>Full stack web development with React, Node.js, and scalable backend solutions.</p>
-                      <span class="projects">5+ Projects</span>
+                      <h3>Full Stack Web Development</h3>
+                      <p>End-to-end web application development using React.js, Node.js, Python, and modern databases. Scalable, secure, and performance-optimized solutions.</p>
+                      <span class="projects">8+ Projects Completed</span>
                     </div>
                     <div class="service-item scroll-animation" data-aos="fade_from_bottom">
                       <i class="las la-mobile-alt"></i>
-                      <h2>Mobile Application</h2>
-                      <p>Cross-platform mobile app development for Android & iOS using modern frameworks.</p>
-                      <span class="projects">2+ Projects</span>
+                      <h3>Mobile Application Development</h3>
+                      <p>Cross-platform mobile app development for Android & iOS using React Native, Flutter, and Kivy. Native performance with modern UI/UX design.</p>
+                      <span class="projects">3+ Projects Completed</span>
                     </div>
                     <div class="service-item scroll-animation" data-aos="fade_from_bottom">
                       <i class="las la-chart-line"></i>
-                      <h2>SEO/Marketing</h2>
-                      <p>Boost your online presence with SEO optimization and digital marketing strategies.</p>
-                      <span class="projects">2+ Projects</span>
+                      <h3>SEO & Digital Marketing</h3>
+                      <p>Comprehensive SEO optimization, performance auditing, and digital marketing strategies to boost your online presence and search rankings.</p>
+                      <span class="projects">5+ Projects Completed</span>
                     </div>
                     <div class="service-item scroll-animation" data-aos="fade_from_bottom">
-                      <i class="las la-network-wired"></i>
-                      <h2>Microservices</h2>
-                      <p>Design and implement scalable microservices architectures for robust applications.</p>
-                      <span class="projects">1+ Projects</span>
+                      <i class="las la-network-wired" aria-hidden="true"></i>
+                      <h3>Cloud & Microservices</h3>
+                      <p>Design and implement scalable microservices architectures using AWS, Azure, and modern containerization technologies for enterprise applications.</p>
+                      <span class="projects">2+ Projects Completed</span>
                     </div>
                   </div>
 
+                  </article>
                 </div>
-              </div>
-            </section>
+              </section>
 
 
-            <section class="skills-area page-section scroll-to-page" id="skills">
-              <div class="custom-container">
-                <div class="skills-content content-width">
-                  <div class="section-header">
-                    <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
-                      <i class="las la-shapes"></i> my skills
-                    </h4>
-                    <h1 class="scroll-animation" data-aos="fade_from_bottom">My <span>Advantages</span></h1>
-                  </div>
+              <section class="skills-area page-section scroll-to-page" id="skills" aria-labelledby="skills-heading">
+                <div class="custom-container">
+                  <article class="skills-content content-width">
+                    <header class="section-header">
+                      <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
+                        <i class="las la-shapes" aria-hidden="true"></i> Technical Skills
+                      </h4>
+                      <h2 id="skills-heading" class="scroll-animation" data-aos="fade_from_bottom">Technologies & <span>Expertise</span></h2>
+                    </header>
 
                   <div class="row skills text-center">
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_right">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style={{ height: "67px" }} alt="React" />
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style={{ height: "67px" }} alt="React.js - Frontend JavaScript Library" />
                           {/* <h1 class="percent">90%</h1> */}
                         </div>
                         <p class="name">React</p>
@@ -411,7 +421,7 @@ function App() {
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_left">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style={{ height: "67px" }} alt="Python" />
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style={{ height: "67px" }} alt="Python Programming Language" />
                           {/* <h1 class="percent">92%</h1> */}
 
                         </div>
@@ -491,27 +501,27 @@ function App() {
                     <div class="col-md-3 scroll-animation" data-aos="fade_from_left">
                       <div class="skill">
                         <div class="skill-inner">
-                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style={{ height: "67px" }} alt="SEO/Marketing" />
+                          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style={{ height: "67px" }} alt="SEO and Digital Marketing" />
                         </div>
                         <p class="name">SEO/Marketing</p>
                       </div>
                     </div>
                   </div>
 
+                  </article>
                 </div>
-              </div>
-            </section>
+              </section>
 
 
-            {/* <section class="portfolio-area page-section scroll-to-page" id="portfolio">
-              <div class="custom-container">
-                <div class="portfolio-content content-width">
-                  <div class="section-header">
-                    <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
-                      <i class="las la-grip-vertical"></i> portfolio
-                    </h4>
-                    <h1 class="scroll-animation" data-aos="fade_from_bottom">Featured <span>Projects</span></h1>
-                  </div>
+              {/* <section class="portfolio-area page-section scroll-to-page" id="portfolio" aria-labelledby="portfolio-heading">
+                <div class="custom-container">
+                  <article class="portfolio-content content-width">
+                    <header class="section-header">
+                      <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
+                        <i class="las la-grip-vertical" aria-hidden="true"></i> portfolio
+                      </h4>
+                      <h2 id="portfolio-heading" class="scroll-animation" data-aos="fade_from_bottom">Featured <span>Projects</span></h2>
+                    </header>
 
                   <div class="row portfolio-items">
                     <div class="col-md-12 scroll-animation" data-aos="fade_from_bottom">
@@ -620,19 +630,21 @@ function App() {
                 </div>
               </div>
             </section> */}
-            <section class="contact-area page-section scroll-content" id="contact">
+            <section class="contact-area page-section scroll-content" id="contact" aria-labelledby="contact-heading">
               <div class="custom-container">
-                <div class="contact-content content-width">
-                  <div class="section-header">
+                <article class="contact-content content-width">
+                  <header class="section-header">
                     <h4 class="subtitle scroll-animation" data-aos="fade_from_bottom">
-                      <i class="las la-dollar-sign"></i> contact
+                      <i class="las la-dollar-sign" aria-hidden="true"></i> contact
                     </h4>
-                    <h1 class="scroll-animation" data-aos="fade_from_bottom">Let's Work <span>Together!</span></h1>
-                  </div>
-                  <h3 class="scroll-animation" data-aos="fade_from_bottom">sreevatsabr@outlook.com</h3>
+                    <h2 id="contact-heading" class="scroll-animation" data-aos="fade_from_bottom">Let's Work <span>Together!</span></h2>
+                  </header>
+                  <address class="scroll-animation" data-aos="fade_from_bottom">
+                    <a href="mailto:sreevatsabr@outlook.com">sreevatsabr@outlook.com</a>
+                  </address>
                   <p id="required-msg">* Marked fields are required to fill.</p>
 
-                  <form class="contact-form scroll-animation" data-aos="fade_from_bottom" method="POST" onSubmit={handleSubmit}>
+                  <form class="contact-form scroll-animation" data-aos="fade_from_bottom" method="POST" onSubmit={handleSubmit} role="form" aria-label="Contact Form">
                     <div class="alert alert-success messenger-box-contact__msg" style={{ display: "none" }} role="alert">
                       Your message was sent successfully.
                     </div>
@@ -701,7 +713,7 @@ function App() {
                     </div>
                   </form>
 
-                </div>
+                </article>
               </div>
             </section>
           </div>
