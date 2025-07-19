@@ -9,7 +9,20 @@ lerna-debug.log*
 
 node_modules
 *.local
-
+dist
+# Build directories
+build
+out
+coverage
+.cache
+.vscode-test
+# Dependency directories
+node_modules/
+jspm_packages/
+bower_components/
+# Compiled source #
+dist/
+dist-ssr/
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

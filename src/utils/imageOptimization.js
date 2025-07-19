@@ -84,8 +84,7 @@ export const preloadImage = (src) => {
 export const optimizeImageLoading = () => {
   // Preload critical images
   const criticalImages = [
-    './assets/images/DSC_4237.jpg',
-    './public/vite.svg'
+    './assets/images/DSC_4237.jpg'
   ];
   
   criticalImages.forEach(preloadImage);
